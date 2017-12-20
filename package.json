@@ -1,0 +1,32 @@
+{
+  "name": "zachary",
+  "version": "1.0.0",
+  "description": "testing grunt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zcarreon/testGrunt_2.git"
+  },
+  "keywords": [
+    "grunt",
+    "test",
+    "again"
+  ],
+  "author": "Zachary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcarreon/testGrunt_2/issues"
+  },
+  "homepage": "https://github.com/zcarreon/testGrunt_2",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0",
+    "npm": "^5.6.0"
+  }
+}
